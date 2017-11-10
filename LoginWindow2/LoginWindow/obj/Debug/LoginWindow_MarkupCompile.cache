@@ -1,0 +1,20 @@
+﻿LoginWindow
+
+
+winexe
+C#
+.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\
+LoginWindow
+none
+false
+DEBUG;TRACE
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\App.xaml
+181853331239
+
+22813697603
+13738642453
+ChooseAvatar.xaml;CreateAcc.xaml;ForgotUser.xaml;GradeStations.xaml;IncorrectPopUp.xaml;LoginPage.xaml;Math.xaml;MenuIcon.xaml;PointsPopUp.xaml;Reading.xaml;ScienceVideos.xaml;SearchResults.xaml;StoreHats.xaml;StoreMain.xaml;SubjectTrain.xaml;MainWindow.xaml;Title.xaml;YouWinPopUp.xaml;
+
+False
+

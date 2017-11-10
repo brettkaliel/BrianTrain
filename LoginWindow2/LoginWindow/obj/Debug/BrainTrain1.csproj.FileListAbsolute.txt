@@ -1,0 +1,133 @@
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\BrainTrain1.csprojResolveAssemblyReference.cache
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.exe
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.pdb
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe.config
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.exe
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\bin\Debug\LoginWindow.pdb
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\App.g.cs
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow_MarkupCompile.cache
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow_MarkupCompile.lref
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.g.resources
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\LoginWindow.Properties.Resources.resources
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\BrainTrain1.csproj.GenerateResource.Cache
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\MainWindow.g.cs
+c:\users\mendonca family1\documents\visual studio 2015\Projects\LoginWindow\LoginWindow\obj\Debug\MainWindow.baml
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.exe.config
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.exe
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.pdb
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.exe
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.pdb
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\BrainTrain1.csprojResolveAssemblyReference.cache
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\App.g.cs
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow_MarkupCompile.cache
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow_MarkupCompile.lref
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\MainWindow.baml
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.g.resources
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.Properties.Resources.resources
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\BrainTrain1.csproj.GenerateResource.Cache
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\TitleWindow.g.cs
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\TitleWindow.baml
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ChooseAvatar.g.cs
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ChooseAvatar.baml
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ForgotUser.g.cs
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginPage.g.cs
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ForgotUser.baml
+C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginPage.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.exe.config
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.exe
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.pdb
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\BrainTrain1.csprojResolveAssemblyReference.cache
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ChooseAvatar.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ForgotUser.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\IncorrectPopUp.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\MainWindow.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginPage.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\PointsPopUp.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\TitleWindow.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\YouWinPopUp.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\App.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow_MarkupCompile.cache
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow_MarkupCompile.lref
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.exe
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.pdb
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ChooseAvatar.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ForgotUser.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\IncorrectPopUp.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\MainWindow.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginPage.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\PointsPopUp.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\TitleWindow.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\YouWinPopUp.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.g.resources
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.Properties.Resources.resources
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\BrainTrain1.csproj.GenerateResource.Cache
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\StoreMain.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\StoreMain.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\CreateAcc.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\GradeStations.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\Math.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\Reading.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ScienceVideos.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\StoreAcc.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\SubjectTrain.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\CreateAcc.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\GradeStations.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\Math.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\Reading.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\ScienceVideos.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\StoreAcc.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\SubjectTrain.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\Page1.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\LoginWindow2\LoginWindow\obj\Debug\Page1.baml
+\\samba.cs.ucalgary.ca\brett.kaliel\Documents\Visual Studio 2015\Projects\BrainTrain\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.exe.config
+\\samba.cs.ucalgary.ca\brett.kaliel\Documents\Visual Studio 2015\Projects\BrainTrain\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.exe
+\\samba.cs.ucalgary.ca\brett.kaliel\Documents\Visual Studio 2015\Projects\BrainTrain\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.pdb
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.exe.config
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.exe
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.pdb
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\BrainTrain1.csprojResolveAssemblyReference.cache
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\ChooseAvatar.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\CreateAcc.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\ForgotUser.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\GradeStations.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\IncorrectPopUp.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\LoginPage.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\Math.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\MenuIcon.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\PointsPopUp.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\Reading.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\ScienceVideos.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\SearchResults.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\StoreHats.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\StoreMain.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\SubjectTrain.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\MainWindow.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\YouWinPopUp.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\App.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\LoginWindow_MarkupCompile.cache
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\LoginWindow_MarkupCompile.lref
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.exe
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.pdb
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\ChooseAvatar.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\CreateAcc.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\ForgotUser.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\GradeStations.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\IncorrectPopUp.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\LoginPage.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\Math.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\MenuIcon.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\PointsPopUp.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\Reading.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\ScienceVideos.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\SearchResults.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\StoreHats.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\StoreMain.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\SubjectTrain.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\MainWindow.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\YouWinPopUp.baml
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.g.resources
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.Properties.Resources.resources
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\BrainTrain1.csproj.GenerateResource.Cache
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\Title.g.cs
+\\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\Title.baml

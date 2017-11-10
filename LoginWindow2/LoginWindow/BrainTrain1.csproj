@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{99915F85-19B6-4037-B972-A5EC6524ECA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LoginWindow</RootNamespace>
+    <AssemblyName>LoginWindow</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="ChooseAvatar.xaml.cs">
+      <DependentUpon>ChooseAvatar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CreateAcc.xaml.cs">
+      <DependentUpon>CreateAcc.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotUser.xaml.cs">
+      <DependentUpon>ForgotUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GradeStations.xaml.cs">
+      <DependentUpon>GradeStations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IncorrectPopUp.xaml.cs">
+      <DependentUpon>IncorrectPopUp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.xaml.cs">
+      <DependentUpon>LoginPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Math.xaml.cs">
+      <DependentUpon>Math.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MenuIcon.xaml.cs">
+      <DependentUpon>MenuIcon.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PointsPopUp.xaml.cs">
+      <DependentUpon>PointsPopUp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Reading.xaml.cs">
+      <DependentUpon>Reading.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ScienceVideos.xaml.cs">
+      <DependentUpon>ScienceVideos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SearchResults.xaml.cs">
+      <DependentUpon>SearchResults.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreHats.xaml.cs">
+      <DependentUpon>StoreHats.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StoreMain.xaml.cs">
+      <DependentUpon>StoreMain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SubjectTrain.xaml.cs">
+      <DependentUpon>SubjectTrain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Title.xaml.cs">
+      <DependentUpon>Title.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="YouWinPopUp.xaml.cs">
+      <DependentUpon>YouWinPopUp.xaml</DependentUpon>
+    </Compile>
+    <Page Include="ChooseAvatar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CreateAcc.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ForgotUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GradeStations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="IncorrectPopUp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="LoginPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Math.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MenuIcon.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PointsPopUp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Reading.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ScienceVideos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SearchResults.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreHats.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StoreMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SubjectTrain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Title.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="YouWinPopUp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ball.png" />
+    <Resource Include="bear.png" />
+    <Resource Include="bike.png" />
+    <Resource Include="doll.png" />
+    <Resource Include="robot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="create-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logo-circle.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="choosechar.png" />
+    <Resource Include="donkey.png" />
+    <Resource Include="giraffe.png" />
+    <Resource Include="pig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cloud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="back.png" />
+    <Resource Include="dog-avatar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Hat1.png" />
+    <Resource Include="Hat2.png" />
+    <Resource Include="Hat3.png" />
+    <Resource Include="Hat4.png" />
+    <Resource Include="Hat5.png" />
+    <Resource Include="Hat6.png" />
+    <Resource Include="Hat7.png" />
+    <Resource Include="Hat8.png" />
+    <Resource Include="Pants.png" />
+    <Resource Include="Shirt1.png" />
+    <Resource Include="Shoes.png" />
+    <Resource Include="Train3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="giraffe_head.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="transparenttrack2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="gamepics1.JPG" />
+    <Resource Include="gamepics2.JPG" />
+    <Resource Include="gamepics3.JPG" />
+    <Resource Include="gamepics4.JPG" />
+    <Resource Include="gamepics5.JPG" />
+    <Resource Include="gamepics6.JPG" />
+    <Resource Include="gamepics7.JPG" />
+    <Resource Include="reading screen.JPG" />
+    <Resource Include="reading1.JPG" />
+    <Resource Include="reading2.JPG" />
+    <Resource Include="reading3.JPG" />
+    <Resource Include="reading4.JPG" />
+    <Resource Include="reading5.JPG" />
+    <Resource Include="sciencepic1.JPG" />
+    <Resource Include="sciencepic2.JPG" />
+    <Resource Include="sciencepic3.JPG" />
+    <Resource Include="sciencepic4.JPG" />
+    <Resource Include="sciencepic5.JPG" />
+    <Resource Include="sciencepic6.JPG" />
+    <Resource Include="search-box.png" />
+    <Resource Include="transparentvideoicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imageedit_3_9037570189.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SubjectTrain%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="train.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="CatReading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="DivisionSymbol.png" />
+    <Resource Include="minusSymbol.png" />
+    <Resource Include="multiplicationSymbol.png" />
+    <Resource Include="plusSymbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ScienceTestTube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="atom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="beaker.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="beaker1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="divide.png" />
+    <Resource Include="minus.png" />
+    <Resource Include="multiply.png" />
+    <Resource Include="plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="magnet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="MagGlass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ScienceArt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bookPile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="imageedit_2_3868261221.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="MoreBeakers.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="greenBeaker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="lightbulb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Magnet %281%29.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="atom2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="atomPurple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cleanTracks.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="searchIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="BrainLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ABC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="LeftSpeechBubble.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="BottomSpeechBubble.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

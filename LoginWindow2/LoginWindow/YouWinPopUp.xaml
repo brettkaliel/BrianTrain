@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="LoginWindow.YouWinPopUp"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LoginWindow"
+             mc:Ignorable="d" 
+             d:DesignHeight="250" d:DesignWidth="300">
+    <Grid Background="#FFD0FEBC">
+        <Image x:Name="cloud" Height="105" Margin="14,10,14,0" VerticalAlignment="Top" Source="cloud.png"/>
+        <Label x:Name="label_Copy" Content="You earned" VerticalAlignment="Bottom" Margin="105,0,105,93" Height="48" FontFamily="Maiandra GD" Foreground="#FF0E393C" FontSize="16"/>
+        <Button x:Name="backButton" Content="NEXT" FontFamily="Maiandra GD" FontSize ="30" Margin="85,179,85,21" Background="#FF165458" Foreground="White">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label x:Name="label" Content="You Win!" VerticalAlignment="Center" Margin="90,28,90,178" Height="44" FontFamily="Kristen ITC" Foreground="#FF0E393C" FontWeight="Bold" FontSize="24" RenderTransformOrigin="0.651,0.5"/>
+        <TextBlock x:Name="textBlock" Margin="108,133,109,0" TextWrapping="Wrap" Text="50 Points!" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Maiandra GD" FontSize="18"/>
+
+    </Grid>
+</UserControl>
