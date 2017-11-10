@@ -131,3 +131,6 @@ C:\Users\Mendonca Family1\Documents\Visual Studio 2015\Projects\LoginWindow2\Log
 \\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\BrainTrain1.csproj.GenerateResource.Cache
 \\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\Title.g.cs
 \\samba.cs.ucalgary.ca\simone.mendonca\Documents\Visual Studio 2015\Projects\BrainTrain-master\LoginWindow2\LoginWindow\obj\Debug\Title.baml
+U:\Documents\GitHub\BrianTrain\LoginWindow2\LoginWindow\bin\Debug\LoginWindow.exe.config
+U:\Documents\GitHub\BrianTrain\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.exe
+U:\Documents\GitHub\BrianTrain\LoginWindow2\LoginWindow\obj\Debug\LoginWindow.pdb
